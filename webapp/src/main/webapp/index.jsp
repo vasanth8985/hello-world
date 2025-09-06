@@ -79,7 +79,7 @@
 <body>
   <header>
     <img src="https://gvpce.ac.in/images/logo.png" alt="GVPCE Logo">
-    <h1>vasanth VIDYA PARISHAD COLLEGE OF ENGINEERING</h1>
+    <h1>XXXXXX VIDYA PARISHAD COLLEGE OF ENGINEERING</h1>
     <p class="sub-text">
       Approved by AICTE & Affiliated to Andhra University, Visakhapatnam from 2022-23 <br>
       (Affiliated to JNTUK, Kakinada upto 2021-22)
